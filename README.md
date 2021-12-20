@@ -1,4 +1,4 @@
-# Open source 
+# Relative Rotation Graph 
 
 This project aims to provide a free option when it comes to Relative Rotation Graphs.
 
