@@ -2,6 +2,24 @@
 
 This project aims to provide a free option when it comes to Relative Rotation Graphs.
 
+___
+
+## Technologies & key concepts used
+
+* NestJS
+* Typescript
+* MongoDB
+* Cache
+
+<br/>
+
+___
+___
+
+<br/>
+<br/>
+
+# About RRGs
 ## Introduction
 
 Relative Rotation Graphs, commonly referred to as RRGs, are a unique visualization tool for relative strength analysis. Chartists can use RRGs to analyze the relative strength trends of several securities against a common benchmark, and against each other. The real power of this tool is its ability to plot relative performance on one graph and show true rotation. We have all heard of sector and asset class rotation, but it is hard to visualize this “rotation” sequence on linear charts. RRGs use four quadrants to define the four phases of a relative trend. True rotations can be seen as securities move from one quadrant to the other over time.
