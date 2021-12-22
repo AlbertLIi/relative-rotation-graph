@@ -11,13 +11,7 @@ ___
 * MongoDB
 * Cache
 
-<br/>
-
 ___
-___
-
-<br/>
-<br/>
 
 # About RRGs
 ## Introduction
